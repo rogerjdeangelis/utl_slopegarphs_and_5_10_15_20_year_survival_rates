@@ -12,6 +12,9 @@ Slopegarphs and 5 10 15 20 year cancel survival rates. Keywords: sas sql join me
     https://tinyurl.com/y7on246y
     https://communities.sas.com/t5/SAS-GRAPH-and-ODS-Graphics/A-SAS-ODS-Graphics-quot-remix-quot-of-Edward-Tufte-s-cancer/m-p/465280
 
+    tc profile
+    https://communities.sas.com/t5/user/viewprofilepage/user-id/4628
+
 
     INPUT
     =====
